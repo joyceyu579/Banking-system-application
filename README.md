@@ -29,7 +29,7 @@ To initialize the banking system, the user must assign `BankingSystemImpl()` to 
 - Libraries: Python standard library
 
 ### Contributors 
-- Carmen Matar - [C-Matar] (https://github.com/C-Matar)
+- Carmen Matar - [C-Matar](https://github.com/C-Matar)
 - Brandon T. Ton  - [brandontton](https://github.com/brandontton)
 - Timothy E. Nguyen - [nguyen-timothy](https://github.com/nguyen-timothy)
 - Joyce Yu - [joyceyu579](https://github.com/joyceyu579)
